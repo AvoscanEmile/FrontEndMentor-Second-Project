@@ -1,0 +1,23 @@
+/* Global attributes */
+
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+/* Some quick fixes */
+
+img {
+  display: block;
+}  
+
+h1 {
+  margin: 0;
+}
+
+body {
+  margin: 0;
+}
