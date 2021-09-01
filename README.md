@@ -1,5 +1,5 @@
-# FrontEndMentor-Second-Project
-- **This is my second Front-End Mentor project. If you want to see it live you can do it here: https://avoscanemile.github.io/FrontEndMentor-Second-Project/**
+# Stats preview card component
+- **This is my second Front-End Mentor project. If you want to see it live you can do it here: https://avoscanemile.github.io/Stats-preview-card-component/**
 
 - **You can see the desktop and the mobile design on the /design folder of this project.**
 
